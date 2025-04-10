@@ -28,4 +28,7 @@ public class Fornecedor {
     public void setCnpj(long cnpj) {
         this.cnpj = cnpj;
     }
+
+
 }
+
